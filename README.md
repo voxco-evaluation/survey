@@ -13,13 +13,17 @@ Method #2
 
 1. Install NodeJS on your computer (https://nodejs.org/en/download/)
 
-2. Install a web server on your computer
+2. Browse to the 'survey' directory in terminal
+
+3. Type 'npm run build'
+
+4. Install a web server on your computer
     Linux:      https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
     Windows:    https://www.whobrokethebuild.me/deploying-reactjs-apps-in-iis/
     Mac:        https://tecadmin.net/install-apache-macos-homebrew/
 
-3. Copy the content of the 'build' directory to your web server
+5. Copy the content of the 'build' directory to your web server
 
-4. Browse the website
+6. Browse the website
 
 
