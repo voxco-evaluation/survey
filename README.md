@@ -6,7 +6,9 @@ Method #1
 
 3. Browse to the 'survey' directory in terminal
 
-4. Type 'npm start'
+4. Type 'npm install'
+
+5. Type 'npm start'
 
 
 Method #2 
@@ -15,16 +17,18 @@ Method #2
 
 2. Browse to the 'survey' directory in terminal
 
-3. Type 'npm run build'
+3. Type 'npm install'
 
-4. Install a web server on your computer
+4. Type 'npm run build'
+
+5. Install a web server on your computer
     Linux:      https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
     Windows:    https://www.whobrokethebuild.me/deploying-reactjs-apps-in-iis/
     Mac:        https://tecadmin.net/install-apache-macos-homebrew/
 
-5. Copy the content of the 'build' directory to your web server
+6. Copy the content of the 'build' directory to your web server
 
-6. Browse the website
+7. Browse the website
 
 
 
