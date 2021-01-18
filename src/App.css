@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.NavBar {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.divAnswersContainer {
+  text-align: left;
+}
+
+.divAnswers {
+  padding: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 800px) {
+
+  .divStarRatingAnswers {
+    padding-top: 15px;
+    text-align: left;
+  }
+
+}
+
+@media screen and (min-width: 800px) {
+
+  .divStarRatingAnswers {
+    padding-top: 15px;
+    text-align: right;
+  }
+
+}
